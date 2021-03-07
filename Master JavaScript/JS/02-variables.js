@@ -7,6 +7,7 @@ var continente = "Europa";
 var antiguedad = 2021;
 
 
+
 pais = "Mexico";
 continente = "Latinoamerica";
 var pais_y_continente = pais+ ' ' +continente;
